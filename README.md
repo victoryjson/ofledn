@@ -1,6 +1,6 @@
 # ofledn
 
-A new Flutter application.
+OFLEDN is a Learning Management System which is aimed at making learning flexible, it enables you Learn at your own pace your desire course, We're Working effectively to bring the right learning design to your Smart Phone. .
 
 ## Getting Started
 

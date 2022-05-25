@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345872242290",
+    "project_id": "ofledn-393a2",
+    "storage_bucket": "ofledn-393a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345872242290:android:b3e325349ab98bc23c94eb",
+        "android_client_info": {
+          "package_name": "com.lolits.ofledn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345872242290-nppht94buba3st2a6ur1e8lmaof8ragj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lolits.ofledn",
+            "certificate_hash": "4870f7dfd338e1559c5f0712e92257dc54bcb3ab"
+          }
+        },
+        {
+          "client_id": "345872242290-24js1k457v67nnp2vi78p9k3f52ut95r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANEpiaYTbhZ2iEHcr_8c3Y20ufBSFSwzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345872242290-24js1k457v67nnp2vi78p9k3f52ut95r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

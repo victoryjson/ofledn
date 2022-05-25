@@ -1,0 +1,32 @@
+name: permission_handler_example
+description: Demonstrates how to use the permission_handler plugin.
+
+environment:
+  sdk: ">=2.12.0-259.9.beta <3.0.0"
+
+dependencies:
+  baseflow_plugin_template:
+    git:
+      url: git://github.com/Baseflow/baseflow_plugin_template.git
+      ref: v2.0.0-nullsafety
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  permission_handler:
+    path: ../
+
+  url_launcher: ^6.0.12
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - res/images/baseflow_logo_def_light-02.png
+    - res/images/poweredByBaseflowLogoLight@3x.png
+    - packages/baseflow_plugin_template/logo.png
+    - packages/baseflow_plugin_template/poweredByBaseflow.png
+
